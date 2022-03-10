@@ -8,6 +8,6 @@
 | -------------------------------------------------------------- | ------  |
 | [8 kyu](https://github.com/Unvares/codewars/tree/master/8-kyu) |   14   | 
 | [7 kyu](https://github.com/Unvares/codewars/tree/master/7-kyu) |   16   |
-| [6 kyu](https://github.com/Unvares/codewars/tree/master/6-kyu) |   10   |
+| [6 kyu](https://github.com/Unvares/codewars/tree/master/6-kyu) |   11   |
 | [5 kyu](https://github.com/Unvares/codewars/tree/master/5-kyu) |    1   |
 | [Beta](https://github.com/Unvares/codewars/tree/master/Beta)   |    1   |
