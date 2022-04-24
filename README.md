@@ -6,7 +6,7 @@
 
 | Difficulty                                                     | Count  |
 | -------------------------------------------------------------- | ------ |
-| [8 kyu](https://github.com/Unvares/codewars/tree/master/8-kyu) |   22   |
+| [8 kyu](https://github.com/Unvares/codewars/tree/master/8-kyu) |   23   |
 | [7 kyu](https://github.com/Unvares/codewars/tree/master/7-kyu) |   24   |
 | [6 kyu](https://github.com/Unvares/codewars/tree/master/6-kyu) |   25   |
 | [5 kyu](https://github.com/Unvares/codewars/tree/master/5-kyu) |    6   |
