@@ -6,7 +6,7 @@
 | -------------------------------------------------------------- | ------ |
 | [8 kyu](https://github.com/Unvares/codewars/tree/master/8-kyu) |   34   |
 | [7 kyu](https://github.com/Unvares/codewars/tree/master/7-kyu) |   30   |
-| [6 kyu](https://github.com/Unvares/codewars/tree/master/6-kyu) |   33   |
+| [6 kyu](https://github.com/Unvares/codewars/tree/master/6-kyu) |   34   |
 | [5 kyu](https://github.com/Unvares/codewars/tree/master/5-kyu) |   10   |
 | [4 kyu](https://github.com/Unvares/codewars/tree/master/4-kyu) |    2   |
 | [Beta](https://github.com/Unvares/codewars/tree/master/Beta)   |    1   |
